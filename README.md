@@ -1,2 +1,2 @@
 # MyWorks
-variety of programs and application designed and developed by Gabriel Wechta
+variety of programs and application designed and developed before studies.
